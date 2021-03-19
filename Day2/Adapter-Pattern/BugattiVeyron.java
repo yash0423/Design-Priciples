@@ -1,4 +1,4 @@
-package com.adapterpattern.handson;
+package designPrinciple.adapterPattern;
 
 public class BugattiVeyron implements Movable {
 
