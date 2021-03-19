@@ -1,4 +1,4 @@
-package com.adapterpattern.handson;
+package designPrinciple.adapterPattern;
 
 public interface Movable {
 	//returns speed in MPH
