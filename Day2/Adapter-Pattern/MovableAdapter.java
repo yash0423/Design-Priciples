@@ -1,4 +1,4 @@
-package com.adapterpattern.handson;
+package designPrinciple.adapterPattern;
 
 public interface MovableAdapter {
 	double getSpeed();
